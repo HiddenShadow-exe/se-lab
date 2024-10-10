@@ -1,4 +1,4 @@
-![Maven Build Status](https://github.com/username/repository/actions/workflows/maven.yaml/badge.svg)
+![Maven Build Status](https://github.com/HiddenShadow-exe/se-lab/actions/workflows/maven.yaml/badge.svg)
 ![License](https://img.shields.io/github/license/HiddenShadow-exe/se-lab)
 
 # SE Spaceship
