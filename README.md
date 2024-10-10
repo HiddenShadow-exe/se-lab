@@ -1,3 +1,6 @@
+![Maven Build Status](https://github.com/username/repository/actions/workflows/maven.yaml/badge.svg)
+![License](https://img.shields.io/github/license/HiddenShadow-exe/se-lab)
+
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
